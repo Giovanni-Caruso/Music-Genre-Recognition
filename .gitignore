@@ -1,0 +1,6 @@
+# Ignore everything in "data" folder
+data/*
+
+# Exclude the following
+!data/df_features.csv
+!data/samples
